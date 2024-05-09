@@ -9,15 +9,21 @@ Prerequisites
 Before running this project, make sure you have the following installed:
 
 Python:
+
 Python is a high-level programming language widely used for various purposes.
 pandas:
+
 pandas is a powerful Python library for data manipulation and analysis.
 numpy:
+
 numpy is a fundamental package for scientific computing with Python, providing support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions.
 streamlit:
+
 streamlit is a Python framework used for rapidly building and sharing beautiful machine learning and data science web applications. It simplifies the process of creating interactive web apps.
 scikit-learn:
+
 scikit-learn is a popular machine learning library for the Python programming language. It provides simple and efficient tools for data mining and data analysis, built on top of numpy, scipy, and matplotlib.
+
 Make sure to install these dependencies before proceeding with the project setup. You can typically install them using Python's package manager pip:
 
-pip install pandas numpy streamlit scikit-learn
+# pip install pandas numpy streamlit scikit-learn
