@@ -77,3 +77,7 @@ To predict the resale price of a Singapore flat, follow these steps:
 </details>
 
 
+Results :
+
+The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
+
