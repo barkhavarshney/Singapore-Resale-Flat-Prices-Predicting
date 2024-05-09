@@ -26,6 +26,7 @@ To install these dependencies, you can use the following command:
 ```bash
 pip install pandas numpy streamlit scikit-learn
 ```
+</details>
 
 <details>
 <summary>Project Workflow</summary>
