@@ -6,6 +6,7 @@ Introduction: The objective of this project is to develop a robust machine learn
 
 
 **Data source**
+
 Link: https://beta.data.gov.sg/collections/189/view
 
 
@@ -57,5 +58,22 @@ The following is a fundamental outline of the project:
 
 </details>
 
+<details>
+<summary>Using the application</summary>
+
+**Resale Price Prediction**
+
+To predict the resale price of a Singapore flat, follow these steps:
+
+1. Select the "Predictions" option menu.
+2. Fill in the following required information:
+   - Street Name
+   - Block Number
+   - Floor Area (Per Square Meter)
+   - Lease Commence Date
+   - Storey Range
+3. Click the "PREDICT RESALE PRICE" button.
+
+</details>
 
 
